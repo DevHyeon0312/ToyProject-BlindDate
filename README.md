@@ -1,4 +1,4 @@
-# ToyProject-BlindDate
+# ToyProject-BlindDate ( 2020.12.24 ~
 
 ## Process
 * 1차 : 아이디어 회의
