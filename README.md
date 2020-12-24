@@ -9,6 +9,6 @@
 * 6차 : 프로젝트 회고 (KPT 방법론)
 
 ## 아이디어 회의
-* Link :
+* Link : https://github.com/DevHyeon0312/ToyProject-BlindDate/blob/main/1st_idea_conference.md
 
 ## 아이디어 
