@@ -1,5 +1,5 @@
 ## 2차 아이디어 회의
-**Date.1월 첫째주 예정 ** 
+**Date.1월 첫째주 예정** 
 
 **Member.** [JAlthea](https://github.com/JAlthea) , [DevHyeon](https://github.com/DevHyeon0312)
 
