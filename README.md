@@ -8,7 +8,7 @@
 * 5차 : 개발 진행
 * 6차 : 프로젝트 회고 ([KPT 방법론](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html))
 
-<br><b>3차 ~ 6차를 모든 단계가 끝날 때까지 반복</b>
+<b>3차 ~ 6차를 모든 단계가 끝날 때까지 반복</b>
 
 ## 아이디어 회의
 * [아이디어 회의 결과](https://github.com/DevHyeon0312/ToyProject-BlindDate/blob/main/1st_idea_conference.md)
